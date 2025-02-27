@@ -7,5 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Printf("Starting server at 8080\n")
+	fmt.Printf("Starting server at 80\n")
+	
 }
